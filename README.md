@@ -12,7 +12,7 @@ Neural Networks,Konstantinos Peppas , Apostolos C. Tsolakis , Stelios Krinidis a
 
 [4] Human Activity Recognition Using Smartphones , Erhan BULBUL , Aydın CETIN , İbrahim Alper DOGRU
 
-
+Some of the code has been taken from : https://towardsdatascience.com/human-activity-recognition-har-tutorial-with-keras-and-core-ml-part-1-8c05e365dfa0
 
 
 
